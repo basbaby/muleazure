@@ -374,13 +374,7 @@
             		<version>1.2.3</version>
             		<classifier>mule-plugin</classifier>
         	</dependency>
-    	<dependency>
-            <groupId>b0beec90-c6cc-4c36-8f7c-ef1f8f91253b</groupId>
-            <artifactId>apiops-generic-db-sapi</artifactId>
-            <version>1.0.0</version>
-            <classifier>raml</classifier>
-            <type>zip</type>
-        </dependency>
+    	
     </dependencies>
 
 	<repositories>
